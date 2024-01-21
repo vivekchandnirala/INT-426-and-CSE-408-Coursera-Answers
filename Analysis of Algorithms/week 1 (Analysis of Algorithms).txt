@@ -1,0 +1,15 @@
+
+Question 1
+What is the order of growth of the solution to the Quicksort-like recurrence 
+Fn = 2N + 1 + 1/N ∑ 1<=k<=N (Fk-1 + FN-k) with F0 = 0?
+
+Answer:-
+NlogN
+
+
+Question 2
+Which of the following is a drawback to analyzing algorithms by proving O- upper bounds on the worst case?
+
+Answer:-
+Generally cannot be used to predict performance.
+Generally cannot be used to compare algorithms.
