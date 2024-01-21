@@ -1,0 +1,39 @@
+
+Question 1
+Which of these job roles are unlikely to find any use for web UI LLMs?
+
+Answer:-
+None of the above
+
+
+
+Question 2
+What is the relation between AI, tasks, and jobs?
+
+Answer:-
+Jobs are comprised of many tasks. AI automates tasks, rather than jobs.
+
+
+
+Question 3
+Here are some of the tasks of a retail salesperson from O*NET (We encourage you to check out the page yourself.)
+
+Answer:-
+Build an AI system to suggest products to the salesperson, who then decides what to recommend to the customer. 
+
+
+
+Question 4
+When looking for augmentation or automation opportunities, what are the two primary criteria by which to evaluate tasks for generative AI potential? (Check the two that apply.) 
+
+Answer:-
+- Business value (how valuable is it to automate?).
+- Technical feasibility (can AI do it?).
+
+
+
+Question 5
+What is a quick way to start experimenting with an LLM application development project?
+
+Answer:-
+Try experimenting and prototyping with a web-based LLM to assess feasibility.
