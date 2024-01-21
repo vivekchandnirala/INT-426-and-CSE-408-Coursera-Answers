@@ -1,0 +1,38 @@
+
+Question 1
+True or False. Because of the knowledge cut-off, an LLM cannot answer questions about today’s news. But with RAG to supply it articles from the news, it would be able to.
+
+Answer:-
+True
+
+
+Question 2
+You want to build an application to answer questions based on information found in your emails. Which of the following is the most appropriate technique?
+
+Answer:-
+RAG, where the LLM is provided additional context based on retrieving emails relevant to your question.
+
+
+
+Question 3
+What does the idea of using an LLM as a reasoning engine refer to?
+
+Answer:-
+This refers to the idea of using an LLM not as a source of information, but to process information (wherein we provide it the context it needs, through techniques like RAG).
+
+
+
+Question 4
+True or False. By making trusted sources of information available to an LLM via RAG, we can reduce the risk of hallucination.
+
+Answer:-
+True, because RAG allows the LLM to reason through accurate information retrieved from a trusted source to arrive at the correct answer.
+
+
+
+Question 5
+An ecommerce company is building a software application to route emails to the right department (Apparel, Electronics, Home Appliances, etc.) It wants to do so with a small, 1 billion parameter model, and needs high accuracy. Which of these is an appropriate technique?
+
+Answer:-
+Fine-tune a 1 billion parameter model on around 1,000 examples of emails and the appropriate department.
+

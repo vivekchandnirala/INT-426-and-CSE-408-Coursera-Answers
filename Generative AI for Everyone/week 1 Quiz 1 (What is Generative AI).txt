@@ -1,0 +1,36 @@
+
+Question 1
+Which of these is the best definition of “Generative AI”?
+
+Answer:-
+AI that can produce high quality content, such as text, images, and audio.
+
+
+
+Question 2
+Which of these is the most accurate description of an LLM?
+
+Answer:-
+It generates text by repeatedly predicting the next word.
+
+
+Question 3
+True or False. Because an LLM has learned from web pages on the internet, its answers are always more trustworthy than what you will find on the internet. 
+
+Answer:-
+False
+
+
+Question 4
+Why do we call AI a general purpose technology?
+
+Answer:-
+Because it is useful for many different tasks.
+
+
+
+Question 5
+You hear of a company using an LLM to automatically route emails to the right department. Which of these use cases is it most likely to be?
+
+Answer:-
+The company has a software-based application that uses an LLM to automatically route emails.

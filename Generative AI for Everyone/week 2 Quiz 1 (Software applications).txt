@@ -1,0 +1,38 @@
+
+Question 1
+In the videos, we described using either supervised learning or a prompt-based development process to build a restaurant review sentiment classifier. Which of the following statements about prompt-based development is correct?
+
+Answer:-
+Prompt-based development is generally much faster than supervised learning.
+
+
+Question 2
+What is a token in the context of a large language model (LLM)?
+
+Answer:-
+A word or part of a word in either the input prompt or LLM output.
+
+
+
+Question 3
+What are the major steps of the lifecycle of a Generative AI project? 
+
+Answer:-
+Scope project → Build/improve system → Internal evaluation → Deploy and monitor 
+
+
+
+Question 4
+You are building a customer service chatbot. Why is it important to monitor the performance of the system after it is deployed?
+
+Answer:-
+In case customers say something that causes the chatbot to respond in an unexpected way, monitoring lets you discover problems and fix them.
+
+
+
+Question 5
+You are working on using an LLM to summarize research reports. Suppose an average report contains roughly 6,000 words. Approximately how many tokens would it take an LLM to process 6,000 input words? (Assume 1 token = 3/4 words, or equivalently, 1 word \approx 1.333 tokens).
+
+Answer:- 
+8,000 tokens (about 6000 * 1.333) 
+

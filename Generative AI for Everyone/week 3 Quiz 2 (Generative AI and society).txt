@@ -1,0 +1,48 @@
+
+Question 1
+Which of the following statements about Reinforcement Learning from Human Feedback (RLHF) are true? 
+
+Answer:-
+RLHF helps to align an LLM to human preferences, and can reduce the bias of an LLM’s output.
+
+
+
+Question 2
+True or False. Because AI automates tasks, not jobs, absolutely no jobs will disappear because of AI. 
+
+Answer:-
+False
+
+
+
+Question 3
+If we manage to build Artificial General Intelligence (AGI) some day, which tasks should AI be capable of performing? (Check all that apply.)
+
+Answer:-
+- Write a software application to let users manage their household spending budgets.
+- Compose the music for a movie soundtrack.
+- Learn to drive a car in roughly 20 hours of practice.
+
+
+
+Question 4
+You are working on a chatbot to serve as a career coach for recent college graduates. Which of the following steps could you take to ensure that your project follows responsible AI? (Check all that apply.)
+
+
+Answer:-
+- Engage diverse recent college graduates and ask them to offer feedback on the output of your chatbot.
+- Organize a brainstorming session to identify problems that could arise for users chatting with the career coach.
+- Engage employers (because they are a key stakeholder group) and ask them to offer feedback on the output of your chatbot.
+
+
+
+Question 5
+Now that you’ve made it to the end of the course, which of these statements are true? (Please check all, because all apply!) 
+
+
+Answer:-
+- You understand how Generative AI technology works, and what it can and cannot do. 
+- You’re well positioned to use Generative AI responsibly to help yourself and others.
+- You’ve achieved the significant accomplishment of finishing this course.
+- Andrew is thrilled at your completing, and sends you his warmest thank you and congratulations! 
+
