@@ -1,0 +1,42 @@
+
+Question 1
+Which of the following is an example of an AI-driven application in the field of healthcare?
+
+Answer:-
+A system that analyzes medical images to diagnose diseases.
+
+
+
+Question 2
+Which of the following is a benefit of using GPT for content creation?
+
+Answer:-
+GPT can generate high-quality content with little human intervention.
+
+
+
+Question 3
+Which of the following is a potential challenge of using GPT for content creation that could impact the quality of generated content?
+
+Answer:-
+GPT can generate content that lacks coherence and structure.
+
+
+
+Question 4
+Which of the following is a benefit of using GPT (Generative Pre-trained Transformer) for creating presentations?
+
+Answer:-
+GPT can automatically format and design slides for presentations.
+
+
+
+Question 5
+Which of the following is a limitation of using GPT for creating media such as images or videos?
+
+Answer:-
+- GPT can only generate media content in a limited range of styles or themes.
+- GPT can generate biased or inappropriate media content due to training data.
+
+
+

@@ -1,0 +1,90 @@
+
+Question 1
+What is the primary goal of Generative AI?
+
+Answer:-
+To generate new and original data 
+
+
+
+Question 2
+How does Generative AI impact organizational efficiency?
+
+Answer:-
+By automating repetitive tasks 
+
+
+
+Question 3
+Which of the following is a key consideration for implementing ethical aspects of Generative AI?
+
+Answer:-
+Ensuring unbiased model outputs 
+
+
+
+Question 4
+Which of the following are important considerations for ethical deployment and responsible practices in Generative AI projects?
+
+Answer:-
+
+- Transparency and explainability of AI systems
+- Bias and fairness in AI algorithms
+
+
+
+Question 5
+What distinguishes Generative AI from other types of AI algorithms, such as discriminative algorithms?
+
+Answer:-
+Generative AI focuses on generating new data, while discriminative algorithms focus on classifying existing data. 
+
+
+
+
+Question 6
+Assess the impact of Generative AI on organizational efficiency.
+
+Answer:-
+- By generating realistic synthetic data for training AI models and reducing the reliance on large, labeled datasets.
+
+- By optimizing resource allocation and streamlining complex business operations.
+
+- By automating decision-making processes and reducing the need for human intervention. 
+
+- By speeding up the development and deployment of AI applications through automated model generation.
+
+
+
+Question 7
+Which of the following statements best describes the fundamental concept of Generative AI?
+
+Answer:-
+Generative AI aims to generate new data based on patterns learned from existing data. 
+
+
+
+Question 8
+Which of the following best describes the purpose of Generative AI?
+
+Answer:-
+To generate new and creative content. 
+
+
+
+Question 9
+What are some ethical considerations when implementing Generative AI?
+
+Answer:-
+Ensuring transparency and explainability of AI-generated outputs. 
+
+
+
+Question 10
+How can responsible implementation of Generative AI benefit society?
+
+
+Answer:-
+By fostering creativity and enabling new forms of artistic expression.
+
+

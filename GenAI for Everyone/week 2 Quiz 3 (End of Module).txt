@@ -1,0 +1,87 @@
+
+Question 1
+Which of the following is an advantage of using AI technology?
+
+Answer:-
+Increased efficiency and productivity
+
+
+Question 2
+What does GPT stand for in the context of AI?
+
+Answer:-
+Generative Pre-trained Transformer
+
+
+
+Question 3
+Why is AI customized for different use cases or needs?
+
+Answer:-
+To optimize AI's performance and adaptability
+
+
+
+Question 4
+What is the primary purpose of content generation using Generative AI models like GPT-3?
+
+Answer:-
+To automatically produce coherent and contextually relevant text based on given prompts.
+
+
+
+Question 5
+Which of the following is a key feature of content generation using Generative AI models like GPT-3?
+
+Answer:-
+The ability to generate diverse and contextually relevant text based on given prompts.
+
+
+
+
+Question 6
+Which of the following projects could be socially impactful when developed using GenAI?
+
+Answer:-
+Personalized healthcare recommendation system
+
+
+
+Question 7
+A company wants to build an AI system for personalized recommendation. What approach should they use to customize AI for different use cases?
+
+Answer:-
+Employ collaborative filtering techniques.
+
+
+
+Question 8
+In which of the following scenarios could content generation using Generative AI like GPT-3 be effectively applied?
+
+Answer:-
+Automatically drafting legal contracts based on predefined templates and clauses.
+
+
+
+Question 9
+How can prompt engineering enhance content generation using Generative AI models like GPT-3?
+
+Answer:-
+By crafting specific and contextually rich prompts to influence the quality and relevance of the generated content.
+
+
+
+Question 10
+How does GPT (Generative Pre-trained Transformer) work?
+
+Answer:-
+GPT utilizes transformer models and large-scale pre-training.
+
+
+
+
+
+
+
+
+

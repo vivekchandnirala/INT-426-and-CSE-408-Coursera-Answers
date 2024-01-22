@@ -1,0 +1,48 @@
+
+Question 1
+Which of the following is an example of human-centered design in AI?
+
+Answer:-
+- Creating a chatbot that mimics human conversation without taking into account the emotional state of the user.
+
+- Designing a voice assistant that recognizes different accents and dialects to provide more accurate responses.
+
+- Developing an AI system that assists doctors in diagnosing medical conditions accurately and quickly.
+
+- Creating a virtual assistant that helps users manage their mental health by providing personalized support.
+
+
+
+Question 2
+ How can Generative AI be used in the field of manufacturing?
+
+Answers:-
+To generate new product designs.
+
+
+
+Question 3
+What are some potential applications of Generative AI in the retail industry?
+
+Answer:-
+- By generating personalized product recommendations for customers.
+- By improving inventory management through predictive analytics.
+
+
+
+Question 4
+In the field of art, how can Generative AI be used to create new works?
+
+Answer:-
+By generating completely original pieces of art.
+
+
+
+Question 5
+What are some potential benefits of using Generative AI in the field of architecture?
+
+Answer:-
+- It can assist human architects in generating designs faster and more efficiently.
+- It can provide data-driven insights to optimize building performance and sustainability.
+
+

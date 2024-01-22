@@ -1,0 +1,39 @@
+
+Question 1
+What is the primary objective of prompt engineering for generating content?
+
+Answer:-
+To generate high-quality and relevant content 
+
+
+
+Question 2
+Which of the following best describes prompt engineering in content generation? 
+
+Answer:-
+The practice of providing specific instructions or prompts for content creation.
+
+
+
+Question 3
+How does prompt engineering contribute to content generation?
+
+Answer:-
+By providing a clear direction and focus for content creation
+
+
+
+Question 4
+Which of the following is a benefit of using prompt engineering in content generation?
+
+Answer:-
+Improved content readability and coherence 
+
+
+
+Question 5
+What is the role of prompts in prompt engineering for content generation?
+
+Answer:-
+To guide and direct the content creation process 
+
