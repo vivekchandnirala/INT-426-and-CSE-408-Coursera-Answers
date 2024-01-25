@@ -1,0 +1,13 @@
+
+Question 1
+Which of the following constructions defines the Motzkin (unary-binary) trees?
+
+Answer:
+M=Z+Z×M+Z×Z×M
+
+
+Question 2
+Of the following, which are the most numerous, for a given (large) number of nodes?
+
+Answer:-
+binary trees
