@@ -1,0 +1,41 @@
+Question 1
+What are large language models (LLMs)?:
+
+Answer:-
+An LLM is a type of artificial intelligence (AI) that can generate human-quality text. LLMs are trained on massive datasets of text and code, and they can be used for many tasks, such as writing, translating, and coding.
+
+
+
+Question 2
+What are some of the benefits of using large language models (LLMs)?
+
+Answer:-
+LLMs have many benefits, including: 
+1) They can generate human-quality text. 
+2) They can be used for a variety of tasks.
+3) They can be trained on massive datasets of text and code. 
+4) They are constantly improved. 
+
+
+
+Question 3
+What are some of the applications of LLMs?
+
+Answer:-
+LLMs can be used for many tasks, including:
+1) Writing
+2) Translating
+3) Coding
+4) Answering questions
+5) Summarizing text
+6) Generating creative content
+
+
+
+Question 4
+What are some of the challenges of using LLMs? Select three options.
+
+Answer:-
+- They can be used to generate harmful content.
+- They can be expensive to train.
+- They can be biased.
