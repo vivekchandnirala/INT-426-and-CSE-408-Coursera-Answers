@@ -1,0 +1,76 @@
+
+Question 1
+Which of the following is a major ethical concern related to AI?
+
+Answer:-
+Transparency and explainability
+
+
+
+Question 2
+What is one potential limitation of AI when it comes to decision making?
+
+Answer:-
+Bias in the data used
+
+
+
+Question 3
+What is the primary neural network architecture used in GPT?
+
+Answer:-
+Transformer 
+
+
+Question 4
+In GPT, what does "pre-training" involve?
+
+Answer:-
+Training the model on a specific task or dataset
+
+
+
+
+Question 5
+How is AI customized to address different use cases and needs?
+
+Answer:-
+By tailoring AI models and algorithms to specific tasks and requirements 
+
+
+
+Question 6
+How can AI be used responsibly?
+
+Answer:-
+By ensuring transparency, fairness, and accountability in AI systems
+
+
+Question 7
+Why is addressing bias in AI algorithms an important ethical consideration?
+
+Answer:-
+Bias can lead to unfair and discriminatory treatment
+
+
+Question 8
+Why is transparency in AI decision-making processes an important ethical consideration?
+
+Answer:-
+Transparency promotes accountability and trustworthiness
+
+
+Question 9
+Which step is NOT typically involved in building a simple GenAI application?
+
+Answer:-
+Developing the user interface
+
+
+Question 10
+What is one of the key steps in preparing data for training a GenAI model?
+
+Answer:-
+Gathering and preprocessing the data
+
+
