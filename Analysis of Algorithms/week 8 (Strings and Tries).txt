@@ -1,0 +1,15 @@
+
+Question 1
+Which of the following is the OGF defining the bitstrings not containing 01010?
+
+Answers:-
+
+(1 + z^2 + z^4) / (z^5 + (1-2z) (1+z^2+z^4))
+
+
+
+Question 2
+Which of the following patterns has a longer expected wait time in a random bitstring than any of the others?
+
+Answers:-
+00000
