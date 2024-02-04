@@ -5,6 +5,12 @@ Which of these constructions defines the set of all binary strings?
 Answer:-
 B=E+(Z1+Z0)×B
 
+(Additional)
+
+Which of these constructions defines the set of all binary strings add up to 11?
+
+Answer:
+B=E+Z0+(Z1+Z0 x Z1)×B
 
 Question 2
 What is the approximate value of [z^n] ln 1/(sqrt(1-2z)) ?
