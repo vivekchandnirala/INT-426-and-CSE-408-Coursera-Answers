@@ -11,3 +11,6 @@ What is the approximate value of [z^n] ln 1/(sqrt(1-2z)) ?
 
 Answer:-
 2^(n-1) /n
+
+Additional Question: What is the approximate value of [zn]11−3zln⁡11−2z[zn]1−3z ​ln(1−2z)​?
+Answer: 

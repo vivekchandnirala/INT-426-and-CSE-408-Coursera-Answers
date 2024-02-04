@@ -13,3 +13,4 @@ Which of the following patterns has a longer expected wait time in a random bits
 
 Answers:-
 00000
+

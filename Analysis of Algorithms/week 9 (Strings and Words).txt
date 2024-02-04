@@ -12,3 +12,4 @@ Which of the following EGFs define random mappings with no singleton cycles, as 
 
 Answer:-
 SEQ (Z1 + .... +Zm)
+
