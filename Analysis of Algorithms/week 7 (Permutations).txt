@@ -12,3 +12,6 @@ Which event is least likely, in a random permutation of size 1000?
 Answer:-
 It has no cycles of length less than 5.
 
+Additional Question: Which event is most likely, in a random permutation of size 1000?
+Answer:- it has no cycles of length 1, 2, 3 or 7.
+
