@@ -11,3 +11,9 @@ Of the following, which are the least numerous, for a given (large) number of no
 
 Answer:-
 unordered trees
+
+Question 2
+Of the following, which are the most numerous, for a given (large) number of nodes?
+
+Answer:-
+3-ary tree
