@@ -13,6 +13,12 @@ Answer:-
 	Answer:-
 	1, 3, 9, 27, 81, 243, ...
 
+(Question 1)
+
+Which of these sequences is represented by the OGF 1/(1-z^2)?
+
+Answer:-
+0,0,1/2,0,1/4,0,1/6...
 
 
 Question 2
