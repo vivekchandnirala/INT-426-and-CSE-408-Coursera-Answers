@@ -12,6 +12,13 @@ Which of these constructions defines the set of all binary strings add up to 11?
 Answer:
 B=E+Z0+(Z1+Z0 x Z1)×B
 
+Question 1
+
+Which of these constructions defines the set of all binary strings add up to 11?
+
+Answer:-
+E + B x (Z0 x Z1) = B + (Z0 x (Z0 + Z1)) x B
+
 Question 2
 What is the approximate value of [z^n] ln 1/(sqrt(1-2z)) ?
 
