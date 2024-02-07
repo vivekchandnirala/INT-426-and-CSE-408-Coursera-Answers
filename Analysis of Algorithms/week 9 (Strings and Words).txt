@@ -17,4 +17,9 @@ Question 2
 Which of the following EGFs define random mappings with no singleton cycles, as a function of the Cayley function C(z) = ze^C(z) ?
 
 Answer:-
+<<<<<<< HEAD
 e^-C(z) / 1-C(z)
+=======
+SEQ (Z1 + .... +Zm)
+
+>>>>>>> 98c31edf7ccca1c41ee20e296f26312264746837
