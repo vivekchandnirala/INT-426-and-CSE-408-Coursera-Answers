@@ -14,3 +14,11 @@ Which of the following patterns has a longer expected wait time in a random bits
 Answers:-
 00000
 
+<<<<<<< HEAD
+Question 2
+Which of the following patterns has a shorter expected wait time in a random bitstring than any of the others?
+
+Answers:-
+00001
+=======
+>>>>>>> 98c31edf7ccca1c41ee20e296f26312264746837
