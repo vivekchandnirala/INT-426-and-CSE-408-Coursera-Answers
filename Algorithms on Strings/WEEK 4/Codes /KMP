@@ -1,0 +1,69 @@
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+vector<int> compute_prefix_function(const string& pattern) {
+    int m = pattern.length();
+    vector<int> pi(m, 0);
+    int k = 0;
+
+    for (int q = 1; q < m; ++q) {
+        while (k > 0 && pattern[k] != pattern[q]) {
+            k = pi[k - 1];
+        }
+        if (pattern[k] == pattern[q]) {
+            k++;
+        }
+        pi[q] = k;
+    }
+
+    return pi;
+}
+
+vector<int> find_occurrences(const string& pattern, const string& genome) {
+    vector<int> occurrences;
+    int n = genome.length();
+    int m = pattern.length();
+    vector<int> pi = compute_prefix_function(pattern);
+    int q = 0;
+
+    for (int i = 0; i < n; ++i) {
+        while (q > 0 && pattern[q] != genome[i]) {
+            q = pi[q - 1];
+        }
+        if (pattern[q] == genome[i]) {
+            q++;
+        }
+        if (q == m) {
+            occurrences.push_back(i - m + 1);
+            q = pi[q - 1];
+        }
+    }
+
+    return occurrences;
+}
+
+int main() {
+    string pattern, genome;
+    
+    
+    cin >> pattern;
+    cin >> genome;
+    
+    vector<int> occurrences = find_occurrences(pattern, genome);
+    
+    if (occurrences.empty()) {
+       
+        return 0;
+    }
+    
+    
+    for (int pos : occurrences) {
+        cout << pos << " ";
+    }
+    cout << endl;
+    
+    return 0;
+}
