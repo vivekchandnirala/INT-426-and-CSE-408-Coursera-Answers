@@ -1,0 +1,26 @@
+$ Question 1:
+What is the length of BWT(S) for a string of length L?
+
+> Answer:
+L
+
+
+$ Question 2:
+What is the time complexity of the algorithm from the lectures used to build BWT(S) for a string S of length L?
+
+> Answer:
+O(L)
+
+$ Question 3:
+What is the time complexity of the algorithm from the lectures to build the inverse Burrows-Wheeler Transform of a string S of length L?
+
+> Answer:
+O(L)
+
+$ Question 4:
+What is the time complexity of the algorithm from ther lectures to build a suffix array of a string S of length L:
+
+> Answer:
+O(L^2)
+
+
