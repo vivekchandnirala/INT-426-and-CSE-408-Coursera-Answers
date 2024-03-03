@@ -419,12 +419,40 @@ print('All tests passed (10 points)!')
 
 
 def getBestTargetSum(S, tgt):
-    k = len(S)
-    assert tgt >= 0
-    # your code here
-    return S
-    
-    # Was unable to finish this section
+    memo = {}  # Memoization table
+    choices = {}  # Table to keep track of choices
+
+    def targetSum(i, T_hat):
+        if T_hat < 0:  # If T_hat is less than 0, return a large number (infinity)
+            return float('inf')
+        elif i > len(S) - 1 and T_hat >= 0:  # If we have considered all elements in S and T_hat is greater than or equal to 0, return T_hat
+            return T_hat
+        elif (i, T_hat) in memo:  # If the subproblem has already been solved, return the result from the memo table
+            return memo[(i, T_hat)]
+        else:  # Otherwise, choose the minimum between skipping the current element or including it
+            skip = targetSum(i + 1, T_hat)
+            include = targetSum(i + 1, T_hat - S[i])
+            if skip < include:  # If skipping the current element results in a smaller difference
+                memo[(i, T_hat)] = skip
+                choices[(i, T_hat)] = False  # Record that we did not choose S[i]
+            else:  # If including the current element results in a smaller difference
+                memo[(i, T_hat)] = include
+                choices[(i, T_hat)] = True  # Record that we chose S[i]
+            return memo[(i, T_hat)]
+
+    # Compute the smallest possible difference
+    diff = targetSum(0, tgt)
+
+    # Recover the solution
+    T = []
+    i = 0
+    while i < len(S) and tgt >= 0:
+        if choices.get((i, tgt), False):  # If we chose S[i]
+            T.append(S[i])  # Add S[i] to the solution
+            tgt -= S[i]  # Subtract S[i] from the target
+        i += 1
+
+    return T
 
 
 # In[78]:
